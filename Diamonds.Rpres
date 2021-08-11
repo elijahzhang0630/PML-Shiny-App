@@ -27,3 +27,11 @@ Summary plot of the diamond data with each of the relevant variables plotted aga
 ```{r, echo=FALSE}
 plot(diamonds[,c(1:4,7)])
 ```
+
+Thank You
+========================================================
+
+Links
+========================================================
+-Githuhb: https://github.com/elijahzhang0630/PML-Shiny-App
+
